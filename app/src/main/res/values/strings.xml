@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Day 12 assignment</string>
+    <string name="welcome_to_gaurav_knowledge_hub">Welcome to Gaurav Knowledge Hub</string>
+    <string name="android_development">Android Development</string>
+    <string name="web_development">Web Development</string>
+    <string name="machine_learning">Machine Learning</string>
+    <string name="blockchain">BlockChain</string>
+    <string name="contact_us">Contact US ?</string>
+</resources>
